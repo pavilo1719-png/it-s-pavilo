@@ -1,0 +1,9 @@
+{
+  "dashboard": "Dashboard",
+  "inventory": "Inventory",
+  "billing": "Billing",
+  "payments": "Payments",
+  "settings": "Settings",
+  "save": "Save",
+  "add_product": "Add Product"
+}
